@@ -30,4 +30,4 @@ I am a blockchain and smart contract security engineer, I have worked on multipl
 11. [Hacking vulnerable smart contract: CTF by ciphershastra.com.](https://www.calibersec.com/hacking-vulnerable-smart-contract-ctf-by-ciphershastra-com/)
 
 ## Read my thoughts:
-[Thoughts and open problems](https://www.calibersec.com/thoughts-open-problems/)
+- [Thoughts and open problems](https://www.calibersec.com/thoughts-open-problems/)
