@@ -9,6 +9,8 @@ I am a blockchain and smart contract security engineer, I have worked on multipl
   - [Bridge security resources](https://github.com/the-caliber/Blockchain-bridge-vulnerabilities/).
 - ⭐ Did 40+ security reviews. found multiple high and mids.
 - ⭐ While doing private audits i have found critical issues in multiple defi protocols.
+- Perform audits on these type of procotols: Upgradeable smart contracts(UUPS, Transparent, Dimond proxies), ERC2981, ERC1155, ERC777, ERC20, EIP712, governance, proxy contracts, integrations of these 
+contracts into Defi protocols like NFT marketplaces, staking applications, DAOs and bridge...
 
 ## Technical articles:
 1. [Blockchain bridge security - Part 4.](https://www.calibersec.com/blockchain-bridge-security-part-4/)  
