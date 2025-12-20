@@ -14,7 +14,7 @@ I am a blockchain and smart contract security engineer, I have worked on multipl
   - ERC2981, ERC1155, ERC777, ERC20, EIP721, EIP712 standards.
   - governance
   - Integrations of these contracts into Defi protocols like NFT marketplaces, staking applications, DAOs and bridge.
-  - I also had opportinities to work on tr
+  - I also had opportinities to work on TradFi (traditional finance) audits like "loan" and "asset" securatization on blockchains.
 
 ## Technical articles:
 1. [Blockchain bridge security - Part 4.](https://www.calibersec.com/blockchain-bridge-security-part-4/)  
