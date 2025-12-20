@@ -9,8 +9,12 @@ I am a blockchain and smart contract security engineer, I have worked on multipl
   - [Bridge security resources](https://github.com/the-caliber/Blockchain-bridge-vulnerabilities/).
 - ⭐ Did 40+ security reviews. found multiple high and mids.
 - ⭐ While doing private audits i have found critical issues in multiple defi protocols.
-- Perform audits on these type of procotols: Upgradeable smart contracts(UUPS, Transparent, Dimond proxies), ERC2981, ERC1155, ERC777, ERC20, EIP712, governance, proxy contracts, integrations of these 
-contracts into Defi protocols like NFT marketplaces, staking applications, DAOs and bridge...
+- 💻 Type of procotols I performed audits on:
+  - Upgradeable smart contracts(UUPS, Transparent, Dimond proxies).
+  - ERC2981, ERC1155, ERC777, ERC20, EIP721, EIP712 standards.
+  - governance
+  - Integrations of these contracts into Defi protocols like NFT marketplaces, staking applications, DAOs and bridge.
+  - I also had opportinities to work on tr
 
 ## Technical articles:
 1. [Blockchain bridge security - Part 4.](https://www.calibersec.com/blockchain-bridge-security-part-4/)  
@@ -25,3 +29,5 @@ contracts into Defi protocols like NFT marketplaces, staking applications, DAOs 
 10. [Tracing smart contract transaction calls, and events locally with hardhat-tracer.](http://calibersec.com/tracing-smart-contract-transaction-calls-events-locally-with-hardhat-tracer/)  
 11. [Hacking vulnerable smart contract: CTF by ciphershastra.com.](https://www.calibersec.com/hacking-vulnerable-smart-contract-ctf-by-ciphershastra-com/)
 
+## Read my thoughts:
+[Thoughts and open problems](https://www.calibersec.com/thoughts-open-problems/)
