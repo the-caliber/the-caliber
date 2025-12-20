@@ -7,7 +7,7 @@ I am a blockchain and smart contract security engineer, I have worked on multipl
 - 🌱 contributed to open source knowledge materials like:
   - [Manual review](https://frameworks.securityalliance.org/external-security-reviews/smart-contracts/manual-review) section in @security-alliance's [Frameworks](https://github.com/security-alliance/frameworks) initiative.
   - [Bridge security resources](https://github.com/the-caliber/Blockchain-bridge-vulnerabilities/).
-- ⭐ Did 40+ security reviews. found multiple high and mids.
+- ⭐ Did 40+ full time security reviews. found multiple critical severity vulnerabilities.
 - ⭐ While doing private audits i have found critical issues in multiple defi protocols.
 - 💻 Type of procotols I performed audits on:
   - Upgradeable smart contracts(UUPS, Transparent, Dimond proxies).
