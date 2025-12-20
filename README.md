@@ -5,7 +5,7 @@ I am a blockchain and smart contract security engineer with 3.5+ years of experi
 - 📝 I have been writing blockchain security articles.
 - 🏁 Previously i have contributed to some to CTFs and have also participated in some.
 - 🌱 contributed to open source knowledge materials like:
-  - @security-alliance 's framework.
+  - Manual audit section in @security-alliance's [Frameworks](https://github.com/security-alliance/frameworks) initiative.
   - Bridge security resources.
 - ⭐ Did 40+ security reviews. found multiple high and mids.
 - ⭐ While doing private audits i have found critical issues in multiple defi protocols.
