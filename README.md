@@ -1,5 +1,5 @@
 ## About me:
-I am a blockchain and smart contract security engineer with 3.5+ years of experience in blockchain security. I have worked on multiple defi protocols to identify and document vulnerabilities to closely work with the project teams to mitigate them.
+I am a blockchain and smart contract security engineer, I have worked on multiple defi protocols to identify and document vulnerabilities to closely work with the project teams to mitigate them.
 
 - 💼 I am a blockchain and smart contract security engineer with **3.5+ years** of experience specifically in blockchain smart contract security.  
 - 📝 I have been writing blockchain security articles.
