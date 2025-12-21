@@ -1,5 +1,5 @@
 ## About me:
-I am a blockchain smart contract security engineer, I have worked on multiple defi protocols strat to finish, to identify and document vulnerabilities to closely work with the project teams to mitigate them.
+I am a **blockchain** smart contract **security engineer**, I have worked on multiple defi protocols **start to finish**, to identify and document vulnerabilities to closely work with the project teams to mitigate them.
 
 - 💼 I am a blockchain and smart contract security engineer with **3.5+ years** of experience specifically in blockchain smart contract security.  
 - 📝 I have been writing blockchain security articles.
@@ -8,7 +8,7 @@ I am a blockchain smart contract security engineer, I have worked on multiple de
   - [Manual review](https://frameworks.securityalliance.org/external-security-reviews/smart-contracts/manual-review) section in @security-alliance's [Frameworks](https://github.com/security-alliance/frameworks) initiative.
   - [Bridge security resources](https://github.com/the-caliber/Blockchain-bridge-vulnerabilities/).
 - ⭐ Did 40+ full time security reviews. found multiple critical severity vulnerabilities.
-- ⭐ While doing private smart contract security audits i have found critical issues in already audited defi protocols.
+- ⭐ While doing private smart contract security audits i have **found critical issues in already audited defi protocols**.
 - 💻 Type of procotols I performed audits on:
   - Upgradeable smart contracts(UUPS, Transparent, Dimond proxies).
   - ERC2981, ERC1155, ERC777, ERC20, EIP721, EIP712 standards, and more.
