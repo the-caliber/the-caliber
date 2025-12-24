@@ -9,7 +9,7 @@ I am a **blockchain** smart contract **security engineer**, I have worked on mul
   - [Bridge security resources](https://github.com/the-caliber/Blockchain-bridge-vulnerabilities/).
 - ⭐ Did 40+ full time security reviews. found multiple critical severity vulnerabilities.
 - ⭐ While doing private smart contract security audits I have **found critical issues in already audited defi protocols**.
-- 💻 Type of procotols I performed audits on:
+- 💻 Type of procotols I audited:
   - Upgradeable smart contracts(UUPS, Transparent, Dimond proxies).
   - ERC2981, ERC1155, ERC777, ERC20, EIP721, EIP712 standards, and more.
   - Integrations of these contracts into Defi protocols like NFT marketplaces, staking protocols, DAOs and bridges.
