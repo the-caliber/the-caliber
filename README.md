@@ -14,7 +14,7 @@ I am a **blockchain** smart contract **security engineer**, I have worked on mul
   - Upgradeable smart contracts(UUPS, Transparent, Dimond proxies).
   - ERC2981, ERC1155, ERC777, ERC20, EIP721, EIP712 standards, and more.
   - Integrations of these contracts into Defi protocols like NFT marketplaces, staking protocols, DAOs and bridges.
-  - I also had opportinities to work on TradFi (traditional finance) audits like "loan" and "asset" securatization on blockchains.
+  - I also had opportinities to work on TradFi (traditional finance) audits like "loan" and "asset" securitization on blockchains.
 
 ## Technical articles:
 1. [Blockchain bridge security - Part 4.](https://www.calibersec.com/blockchain-bridge-security-part-4/)  
