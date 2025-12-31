@@ -7,7 +7,7 @@ I am a **blockchain** smart contract **security engineer**, I have worked on mul
 - 🌱 contributed to open source knowledge materials like:
   - [Manual review](https://frameworks.securityalliance.org/external-security-reviews/smart-contracts/manual-review) section in @security-alliance's [Frameworks](https://github.com/security-alliance/frameworks) initiative.
   - [Bridge security resources](https://github.com/the-caliber/Blockchain-bridge-vulnerabilities/).
-  - [ERC1155 fuzzing properties](https://github.com/the-caliber/ERC1155-fuzzing-properties).
+  - [ERC1155 fuzzing properties](https://github.com/the-caliber/ERC1155-fuzzing-properties) inspired by Trail of Bit's fuzzing properties.
 - ⭐ Did 40+ full time security reviews. found multiple critical severity vulnerabilities.
 - ⭐ While doing private smart contract security audits I have **found critical issues in already audited defi protocols**.
 - 💻 Type of protocols I audited:
